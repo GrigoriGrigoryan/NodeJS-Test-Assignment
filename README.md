@@ -156,12 +156,12 @@ Project Link: [https://github.com/GrigoriGrigoryan/NodeJS-Test-Assignment](https
 
 
 
-[forks-shield]: https://img.shields.io/github/forks/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
-[forks-url]: https://github.com/GrigoriGrigoryan/backend-team/network/members
-[stars-shield]: https://img.shields.io/github/stars/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
-[stars-url]: https://github.com/GrigoriGrigoryan/backend-team/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
-[issues-url]: https://github.com/GrigoriGrigoryan/backend-team/issues
-[license-shield]: https://img.shields.io/github/license/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/GrigoriGrigoryan/backend-team/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/GrigoriGrigoryan/NodeJS-Test-Assignment.svg?style=for-the-badge
+[forks-url]: https://github.com/GrigoriGrigoryan/NodeJS-Test-Assignment/network/members
+[stars-shield]: https://img.shields.io/github/stars/GrigoriGrigoryan/NodeJS-Test-Assignment.svg?style=for-the-badge
+[stars-url]: https://github.com/GrigoriGrigoryan/NodeJS-Test-Assignment/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GrigoriGrigoryan/NodeJS-Test-Assignment.svg?style=for-the-badge
+[issues-url]: https://github.com/GrigoriGrigoryan/NodeJS-Test-Assignment/issues
+[license-shield]: https://img.shields.io/github/license/GrigoriGrigoryan/NodeJS-Test-Assignment.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/GrigoriGrigoryan/NodeJS-Test-Assignment/blob/master/LICENSE.txt
 
