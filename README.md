@@ -16,7 +16,7 @@
     <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Article Task</h3>
+<h3 align="center">Node Js Test Assessment </h3>
 
   <p align="center">
     Read README to jumpstart project!
