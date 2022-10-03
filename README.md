@@ -1,4 +1,4 @@
-# article-task
+# NodeJS Test Assignment 
 <div id="top"></div>
 
 [![Forks][forks-shield]][forks-url]
@@ -105,11 +105,6 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -159,11 +154,6 @@ Project Link: [https://github.com/GrigoriGrigoryan/NodeJS-Test-Assignment](https
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 [forks-shield]: https://img.shields.io/github/forks/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
